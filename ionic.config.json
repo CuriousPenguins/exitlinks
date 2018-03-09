@@ -1,0 +1,8 @@
+{
+  "name": "exitlinks",
+  "app_id": "cded2500",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
